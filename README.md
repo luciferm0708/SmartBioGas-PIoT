@@ -262,6 +262,8 @@ Commercial use is strictly prohibited without explicit permission from the autho
 
 For correspondence, data access requests, or academic collaboration:
 
-`Name: Faiyaz Khan Sami<br>
-B.Sc. in C.S.E.<br>
+`Name: Faiyaz Khan Sami
+
+B.Sc. in C.S.E.
+
 Email: sami15-4910@diu.edu.bd || sami.khan.m.0107@gmail.com`
