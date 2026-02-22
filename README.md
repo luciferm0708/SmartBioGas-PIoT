@@ -35,7 +35,7 @@ This work makes the following key contributions:
    The study integrates physics-based gas volume estimation with supervised machine learning to enhance predictive accuracy while maintaining physical interpretability, bridging the gap between mechanistic modeling and black-box regression.
 
 - **Edge AI Deployment Using TinyML**  
-   A Random Forest regression model is trained, statistically validated (RMSE, MAE, R$^2$), converted to a lightweight format, and deployed on an ESP32 microcontroller for real-time methane rate prediction (m<sup>3</sup>/h) without cloud dependency.
+   A Random Forest regression model is trained, statistically validated (RMSE, MAE, R<sup>2<\sup>), converted to a lightweight format, and deployed on an ESP32 microcontroller for real-time methane rate prediction (m<sup>3</sup>/h) without cloud dependency.
 
 - **Real-Time Cumulative Methane Computation at the Edge**  
    A discrete-time integration method is implemented on-device to compute cumulative methane production, enabling continuous energy yield tracking.
@@ -261,6 +261,6 @@ Commercial use is strictly prohibited without explicit permission from the autho
 
 For correspondence, data access requests, or academic collaboration:
 
-Name: Faiyaz Khan Sami
+`Name: Faiyaz Khan Sami
 B.Sc. in C.S.E.
-Email: sami15-4910@diu.edu.bd || sami.khan.m.0107@gmail.com
+Email: sami15-4910@diu.edu.bd || sami.khan.m.0107@gmail.com`
