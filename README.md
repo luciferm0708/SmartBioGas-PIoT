@@ -41,10 +41,10 @@ This work makes the following key contributions:
    A discrete-time integration method is implemented on-device to compute cumulative methane production, enabling continuous energy yield tracking.
 
 - **Multivariate IoT-Based Monitoring Architecture**  
-   A complete sensing framework is designed to measure internal and external temperature, humidity, gas concentrations (CH$_4$, CO$_2$, H$_2$S), and pressure in real time, ensuring comprehensive environmental awareness of the digester.
+   A complete sensing framework is designed to measure internal and external temperature, humidity, gas concentrations (CH<sub>4</sub>, CO₂, H₂S), and pressure in real time, ensuring comprehensive environmental awareness of the digester.
 
 - **Baseline Model Comparison and Statistical Validation**  
-   The proposed model is rigorously evaluated against classical machine learning baselines using standard performance metrics (RMSE, MAE, R$^2$) to ensure methodological transparency and reproducibility.
+   The proposed model is rigorously evaluated against classical machine learning baselines using standard performance metrics (RMSE, MAE, R<sup>2</sup>) to ensure methodological transparency and reproducibility.
 
 - **Low-Cost, Scalable Renewable Energy Monitoring Solution**  
    The proposed system demonstrates a cost-effective, deployable architecture suitable for rural and resource-constrained environments, contributing toward data-driven and sustainable biogas management.
@@ -88,7 +88,7 @@ The dataset includes the following features:
 - External temperature (°C)  
 - External humidity (%)  
 - Gas pressure inside the digester (Pa or kPa)  
-- Methane concentration (CH$_4$, ppm)  
+- Methane concentration (CH<sub>4</sub>, ppm)  
 - Carbon dioxide concentration (CO₂, ppm)  
 - Hydrogen sulfide concentration (H₂S, ppm)  
 - Timestamp  
