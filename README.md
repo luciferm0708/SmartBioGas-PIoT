@@ -188,6 +188,7 @@ To ensure physical consistency, methane production variables were derived using 
 8. Train–test split configuration for supervised learning evaluation  
 
 All physics-informed derivation scripts, feature engineering modules, and preprocessing pipelines are provided in the `Code/` directory to ensure full experimental reproducibility and methodological transparency.
+
 ---
 ## 5. Model Architecture
 
@@ -261,6 +262,6 @@ Commercial use is strictly prohibited without explicit permission from the autho
 
 For correspondence, data access requests, or academic collaboration:
 
-`Name: Faiyaz Khan Sami
-B.Sc. in C.S.E.
+`Name: Faiyaz Khan Sami<br>
+B.Sc. in C.S.E.<br>
 Email: sami15-4910@diu.edu.bd || sami.khan.m.0107@gmail.com`
